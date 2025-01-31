@@ -51,21 +51,20 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
   </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50" height="50"/>
   </a>
-
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilanga2002&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanga2002&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanga2002&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-⭐ **Feel free to explore my repositories and contribute!**  
+⭐ **Feel free to explore my repositories and contribute!**
