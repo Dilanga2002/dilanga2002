@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thimira Dilanga</h1>
-<h3 align="center">A passionate Frontend Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Developer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dilanga2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Test Project**  
 - 🌱 I’m currently learning **Java, HTML, PHP**  
-- 💬 Ask me about **HTML, Frontend Development**  
+- 💬 Ask me about **HTML**  
 - 📫 How to reach me: **thimiradilanga2002@gmail.com**  
 - ⚡ Fun fact: **Call me Thimira!**  
 
