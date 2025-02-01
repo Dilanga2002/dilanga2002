@@ -60,7 +60,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilanga2002&show_icons=true&theme=dark&cache_seconds=86400&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanga2002&show_icons=true&theme=dark&count_private=true&cache_seconds=3600" alt="GitHub Stats" />
+
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanga2002&theme=dark" alt="GitHub Streak" />
 </p>
